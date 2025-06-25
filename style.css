@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    width: 350px;
+    height: auto;
+}
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
